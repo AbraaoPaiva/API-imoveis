@@ -14,10 +14,14 @@ No arquivo .env localizado na raiz do projeto, favor adicionar as seguintes linh
     MAIL_FROM_ADDRESS=abraaotestaemail93@gmail.com 
     MAIL_PASSWORD=teste@123456 MAIL_ENCRYPTION=tls 
     MAIL_FROM_NAME="Locação de imóveis"
+<<<<<<< HEAD
 
 Ao criar um novo imóvel é enviado o seguinte recibo no e-mail do usuário:
 ![enter image description here](https://i.ibb.co/NTxYnR8/1.png)
 
+=======
+    
+>>>>>>> c3a8306b0747c9ab9da14504cf6d61c6bc45270c
 É importante também que seja feita a conexão com seu banco de dados.
 
 ## Funcionamento da API
@@ -44,7 +48,10 @@ Funcionalidade mostrando um imóvel especifico:
 ![enter image description here](https://i.ibb.co/0DZRtb2/1.png)
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c3a8306b0747c9ab9da14504cf6d61c6bc45270c
 ## Validações de dados
 
 Todos os dados passam por uma validação, podendo ser alterado as regras na função "regras" dentro da model.
